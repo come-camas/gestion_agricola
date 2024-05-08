@@ -16,5 +16,10 @@ namespace gestion_agricola
         {
             InitializeComponent();
         }
+
+        private void lbBienvenida_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
