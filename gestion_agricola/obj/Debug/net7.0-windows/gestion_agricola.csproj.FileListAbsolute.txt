@@ -1,0 +1,17 @@
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\bin\Debug\net7.0-windows\gestion_agricola.exe
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\bin\Debug\net7.0-windows\gestion_agricola.deps.json
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\bin\Debug\net7.0-windows\gestion_agricola.runtimeconfig.json
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\bin\Debug\net7.0-windows\gestion_agricola.dll
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\bin\Debug\net7.0-windows\gestion_agricola.pdb
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.Form1.resources
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.csproj.GenerateResource.cache
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.AssemblyInfoInputs.cache
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.AssemblyInfo.cs
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.csproj.CoreCompileInputs.cache
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.sourcelink.json
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.dll
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\refint\gestion_agricola.dll
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.pdb
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\gestion_agricola.genruntimeconfig.cache
+C:\Users\moise\Source\Repos\gestion_agricola\gestion_agricola\obj\Debug\net7.0-windows\ref\gestion_agricola.dll

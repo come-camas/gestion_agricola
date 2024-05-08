@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moise\\source\\repos\\gestion_agricola\\gestion_agricola\\gestion_agricola.csproj": {}
+    "C:\\Users\\moise\\Source\\Repos\\gestion_agricola\\gestion_agricola\\gestion_agricola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moise\\source\\repos\\gestion_agricola\\gestion_agricola\\gestion_agricola.csproj": {
+    "C:\\Users\\moise\\Source\\Repos\\gestion_agricola\\gestion_agricola\\gestion_agricola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moise\\source\\repos\\gestion_agricola\\gestion_agricola\\gestion_agricola.csproj",
+        "projectUniqueName": "C:\\Users\\moise\\Source\\Repos\\gestion_agricola\\gestion_agricola\\gestion_agricola.csproj",
         "projectName": "gestion_agricola",
-        "projectPath": "C:\\Users\\moise\\source\\repos\\gestion_agricola\\gestion_agricola\\gestion_agricola.csproj",
+        "projectPath": "C:\\Users\\moise\\Source\\Repos\\gestion_agricola\\gestion_agricola\\gestion_agricola.csproj",
         "packagesPath": "C:\\Users\\moise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moise\\source\\repos\\gestion_agricola\\gestion_agricola\\obj\\",
+        "outputPath": "C:\\Users\\moise\\Source\\Repos\\gestion_agricola\\gestion_agricola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moise\\AppData\\Roaming\\NuGet\\NuGet.Config",
